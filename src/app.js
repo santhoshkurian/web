@@ -6,7 +6,7 @@ routerApp.config(function ($stateProvider, $urlRouterProvider) {
 
     $stateProvider
 
-        // HOME STATES AND NESTED VIEWS jishnu ========================================
+        // HOME STATES AND NESTED VIEWS  ========================================
         .state('home', {
             url: '/home',
             views: {
