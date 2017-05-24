@@ -1,0 +1,21 @@
+{
+  "name": "matrimony",
+  "description": "matrimony application",
+  "main": "index.js",
+  "authors": [
+    "jishnu <jishnusivan7@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/santhoshkurian/web",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^1.0.3",
+    "angular": "^1.6.4"
+  }
+}
