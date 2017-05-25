@@ -41,11 +41,11 @@
                     'main@'         : {
                         templateUrl: layouts.external.main,
                         controller : 'MainController as vm'
+                    },
+                    'toolbar@app'   : {
+                        templateUrl: layouts.external.toolbar,
+                        controller : 'ToolbarController as vm'
                     }
-                    //'toolbar@app'   : {
-                    //    templateUrl: layouts.external.toolbar,
-                    //    controller : 'ToolbarController as vm'
-                    //}
                     //'navigation@app': {
                     //    templateUrl: layouts[layoutStyle].navigation,
                     //    controller : 'NavigationController as vm'

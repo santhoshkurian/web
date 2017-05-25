@@ -7,6 +7,7 @@
 
     /** @ngInject */
     function ToolbarController($rootScope, $q, $state, $timeout) {
-
+        var vm = this;
+        console.log("toolbar");
     }
 })();
