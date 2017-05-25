@@ -9,6 +9,7 @@
     /** @ngInject */
     function MainController($scope, $rootScope)
     {
+        console.log("test print")
         // Data
 
         //////////
